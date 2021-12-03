@@ -11,16 +11,4 @@ function myFuntion() {
 
 
 
-// document.addEventListener("click", modificarTexto);
-
-
-// function darkMode() {
-//     var oscuro = document.getElementById("dark").style.display = "block";
-//     var light = document.getElementById("light").style.display = "none";
-// };
-
-
-
-
-// alert("hola");
 
